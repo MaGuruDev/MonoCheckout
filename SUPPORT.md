@@ -8,7 +8,7 @@
 
 ## Support Channels
 
-- Email: support@yourdomain.com
+- Email: maguru.sup@gmail.com
 - Help Desk: https://github.com/MaGuruDev/MonoCheckout
 - Documentation: https://github.com/MaGuruDev/MonoCheckout
 
