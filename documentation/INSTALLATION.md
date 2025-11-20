@@ -1,5 +1,5 @@
 ## Requirements
-* Magento Community Edition 2.4.x
+* Magento Community Edition 2.4.4
 
 ## Installing via composer
 * Open command line

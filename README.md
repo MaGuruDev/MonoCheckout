@@ -1,7 +1,7 @@
 # MonoCheckout Extension by MaGuru
 
-![Magento 2](https://img.shields.io/badge/Magento-2.4%2B-brightgreen)
-![PHP](https://img.shields.io/badge/PHP-8.2%2B-blue)
+![Magento 2](https://img.shields.io/badge/Magento-2.4.4%2B-brightgreen)
+![PHP](https://img.shields.io/badge/PHP-8.1%2B-blue)
 
 <img width="150" height="100" src="documentation/images/made_in_ukraine.jpeg">
 
